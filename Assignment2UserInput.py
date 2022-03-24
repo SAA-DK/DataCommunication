@@ -2,6 +2,19 @@ import re
 from socket import *
 import ssl
 
+###
+#
+# @titel		Assignment 2 - SMTP			
+#
+# @author		Sebastian A. Almfort
+# @version		Python 3.9.11
+# @date			Marts 2022
+# @Institute	DTU (Technical University of Denmark)
+# @course		62577 Data Communication
+#
+###
+
+
 # Intro message
 print("""Before continueing the following thing should be prepared:
 	* The right settings in the used gmail should be set up
